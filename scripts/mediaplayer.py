@@ -4,7 +4,7 @@ import commands as com
 import cv
 import sys
 
-name = "_ritszy_'s MediaPlayer y'all !! "
+name = "itsafuckingmediaplayerchat"
 image = "/home/ritesh/Pictures/acdc.jpg"
 prev = ""
 mute,paused = False,False
