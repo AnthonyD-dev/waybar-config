@@ -5,7 +5,7 @@ import cv
 import sys
 
 name = "itsafuckingmediaplayerchat"
-image = "/home/ritesh/Pictures/acdc.jpg"
+image = ""
 prev = ""
 mute,paused = False,False
 count = 1
